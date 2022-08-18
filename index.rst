@@ -1,5 +1,5 @@
-.. 目录树::
-   ：最大深度：1
+.. toctree::
+   :maxdepth: 1
    :caption: 内容:
 
                 master介绍 <mster_intoduction.md>
