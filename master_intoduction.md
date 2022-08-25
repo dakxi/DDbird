@@ -1,7 +1,9 @@
 # 骰娘-鹓-介绍
 版本：![](_static/.bot.png)
 大家好，我是**多克悉多布**，同样也是鹓的master  
+
 多克悉多布 = DarkseaDogbird,鹓 = Dbird  
+
 话先不多说，放上master 的信息  
 ```
 QQ:2083497680 --多克悉多布
